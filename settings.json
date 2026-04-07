@@ -8,7 +8,7 @@
   "server": {
     "ip": "kosmkvalo.aternos.me",
     "port": 26568,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
@@ -78,7 +78,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1491086797114052689/iQ9jDGBHqOlbqxKXJ2ySC80dtfsIQ1nyyO8tgJOv1TqR0MAwh3eCYKYfXppvwc_wWlqW",
     "events": {
       "connect": true,
