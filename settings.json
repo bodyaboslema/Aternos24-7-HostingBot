@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "afk bot",
     "password": "",
     "type": "offline"
   },
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -78,12 +78,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1491086797114052689/iQ9jDGBHqOlbqxKXJ2ySC80dtfsIQ1nyyO8tgJOv1TqR0MAwh3eCYKYfXppvwc_wWlqW",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true,
     }
   },
   "chat": {
