@@ -83,7 +83,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true,
+      "chat": true
     }
   },
   "chat": {
