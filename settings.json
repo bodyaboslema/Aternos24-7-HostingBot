@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacreamm",
+    "username": "Sigmtew23t",
     "password": "",
     "type": "offline"
   },
@@ -87,6 +87,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
