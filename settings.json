@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kosmkvalo.aternos.me",
+    "ip": "DeGangg.aternos.me",
     "port": 26568,
     "version": "",
     "try-creative": false
@@ -83,7 +83,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true
+      "chat": false
     }
   },
   "chat": {
